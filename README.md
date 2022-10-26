@@ -6,4 +6,5 @@ All the information is in Spanish.
 
 ## Summary
 
-The project formulate the design of a network model for the "Puntos Verdes"  of Barcelona. The "Puntos Verdes", or also known as "Puntos Limpios" in other localities of Spain, are public facilities
+The project formulates the design of a network model for the "Puntos Verdes"  of Barcelona. The "Puntos Verdes", also known as "Puntos Limpios" in other localities of Spain, are public facilities created to collect all the waste for which there are no specific containers on the street. 
+These infrastructure located in strategic points of the city help to recovery materials that can not be classified as the majority of waste, such as paints, clothes, electrical appliance,etc.
