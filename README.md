@@ -4,7 +4,7 @@ Academic project. Part of the Msc in Statistics and Operational Research at UPC.
 
 All the information is in Spanish.
 
-The data considered is simualted based on public data.
+The data considered is simulated based on public data.
 
 ## Summary
 
