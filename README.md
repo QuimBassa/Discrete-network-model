@@ -12,6 +12,6 @@ Considering a series of assumptions, the project formulates the design of a netw
 
 The work aims to find the optimum set of routes for a fleet of vehicles that collect and transport the waste from each "Punto Verde" to a central deposit. The goal is to find the best service strategy using the least number of resources (less number of trucks and less distance traveled). 
 
-The problem posed is a well-known problem called Vehicle Routing Problem (VRP) which has been mathematically formulated and solved with python in a deterministic and heuristic way for the different strategies tested.
+The problem posed is a well-known problem called Vehicle Routing Problem (VRP) which has been mathematically formulated and solved with python in a deterministic and heuristic way for the different scenarios tested.
 
 
