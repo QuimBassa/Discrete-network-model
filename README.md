@@ -1,6 +1,6 @@
 # Discrete network model for the Puntos Verdes of Barcelona
  
-Academic project. Part of the Msc in Statistics and Operational Research at UPC.
+Academic project. Part of the Msc in Statistics and Operational Research at UPC-UB.
 
 All the information is in Spanish.
 
